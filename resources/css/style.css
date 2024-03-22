@@ -1,0 +1,137 @@
+.section1,.section3 {
+    padding-bottom: 10%;
+  background-color: #014421;
+  }
+  .section2,.section4{
+    padding-bottom: 10%;
+    background-color: azure;
+    color: #18461a;
+  }
+  .body{
+    
+      color: #eeeeff;
+      
+  }
+  .currency{
+    border-radius: 5px;
+    border-color: white;
+  }
+  
+  .portfolio{
+    color: chocolate;
+  }
+  .container{
+   padding-top: 10%;
+    display: flex;
+    text-align: left;
+  }
+  .col1 {
+      margin-left: 5%;
+  
+    text-align: justify;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    height: 100%;
+    overflow: auto;
+    width: 50%;
+    box-sizing: border-box;
+  }
+  .col2{
+    margin-top: 50%;
+    padding: 20px;
+    width: 50%;
+    overflow: auto;
+    box-sizing: border-box;
+  }
+  
+  .header{
+    font-size: 60px;
+  }
+  
+  img{
+    width: 100%;
+    height: 100%;
+    }
+    
+    strong{
+      color: #ffa535;
+    }
+    .btn{
+      color: black;
+      background-color:#ffa535 ;
+    }
+    .btn{
+      color: white;
+    }
+    .section3_heading{
+      
+      transform: translate3d(0px,20px,0px);
+      padding-top: 10%;
+      letter-spacing: 2px;
+    }
+    .letterspacing{
+      letter-spacing: 3px;
+     
+    }
+    h5,p{
+      text-align: left;
+    }
+    
+    .sticky{
+      padding-bottom: 30%;
+      position: sticky;
+      top: 0%;
+      overflow: auto;
+      box-sizing: border-box;
+    }
+    .scrollable{
+      top: 0%;
+        overflow: auto;
+        box-sizing: border-box;
+    }
+    .video{
+      
+  display: block;
+  float: left;
+      width: 50%;
+      height: 50%;
+    }
+    .image_section4{
+      width: 50%;
+      height: 390px;
+    }
+    button{
+      border-radius: 70%;
+    }
+    .header1{
+  
+      letter-spacing: 15px;
+    }
+    .section5{
+      background-color: #eeeeff;
+      padding-bottom: 10%;
+    }
+    .section6{
+      text-align: justify;
+    }
+    .logo_footer{
+  
+      display: flex;
+      float: left;
+      overflow:hidden
+    }
+    .footer_img{
+  
+      width: 60px;
+      height: 60px;
+      padding: 5px;
+    }
+    .follow{
+      font-size: 20px;
+    }
+    footer{
+  font-size: smaller;
+    }
+  
+    
